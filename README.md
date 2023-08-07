@@ -32,6 +32,10 @@ Run tests using the command:
 deno test
 ```
 
+### TODO
+On the test file we only test the `insurersPerClaimRecursive` method we should also test `insurersPerClaim`
+
+
 ### Why deno and not node?
 
 I've never used it before. Wanted to try it.
