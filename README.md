@@ -33,7 +33,7 @@ deno test
 ```
 
 ### TODO
-On the test file we only test the `insurersPerClaimRecursive` method we should also test `insurersPerClaim`
+There's only factories as a placeholder. 
 
 
 ### Why deno and not node?
