@@ -32,7 +32,7 @@ export const insurersPerClaim = (
 
 // Complexity: O(n) and O(1) space (no extra space). Being n the biggest between claims and insurers lists.
 // Because we don't create new arrays.
-const insurersPerClaimOptimized = (
+export const insurersPerClaimOptimized = (
   claims: Claim[],
   insurers: Insurer[]
 ): InsurersPerClaim => {
